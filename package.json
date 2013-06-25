@@ -1,0 +1,17 @@
+{
+    "name": "oauth1-provider",
+    "description": "An OAuth 1.0 Provider.",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "3.x",
+        "redis": "0.8.x",
+	    "coffeescript": "1.6.x"
+    },
+    "main": "index.js",
+    "author": "Batista Harahap <batista@bango29.com> (http://www.bango29.com)",
+    "keywords": ["oauth", "oauth1", "provider"],
+    "repository" : {
+        "type": "git",
+        "url": "git://github.com/tistaharahap/oauth1-provider-js.git"
+    }
+}
